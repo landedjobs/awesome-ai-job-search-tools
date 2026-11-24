@@ -132,6 +132,7 @@ Most screening questions want two or three specific sentences, not a generated e
 
 Applying early matters more than applying often. These find roles; set alerts so you see new ones on day one.
 
+- [EuroJobs.ai](https://eurojobs.ai) - 28,000+ IT jobs across Europe aggregated hourly from 21,000 employers' own career pages (Greenhouse, Lever, Ashby, Workable and others). Free AI CV and cover-letter tailoring for every listed job, fact-checked against your own CV so nothing is invented. Filters for country, remote, visa sponsorship and English-speaking teams. Free.
 - [Jobright](https://jobright.ai) - AI job matches with alerts, tailored resumes, one-click autofill on major ATS platforms and alumni referral suggestions. Free plan available.
 - [Simplify](https://simplify.jobs) - Matches you with jobs, tailors your resume and tracks every application. Free core tools, Simplify+ paid.
 - [HiringCafe](https://hiring.cafe) - Job search engine across company career pages with detailed filters. Free.
