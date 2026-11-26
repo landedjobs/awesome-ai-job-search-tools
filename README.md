@@ -115,6 +115,7 @@ There is no standard ATS score. Each checker computes its own match rate, and ea
 - [SkillSyncer](https://www.skillsyncer.com) - Scans your resume against a posting and lists missing keywords. Freemium, two scan credits a week free, Premium $14.95 a month.
 - [ResyMatch](https://cultivatedculture.com/resume-scanner/) - Resume scanner and job description match tool from Cultivated Culture. Free.
 - [Jobsolv](https://www.jobsolv.com) - Resume readiness score with prioritized fixes, no job post or account needed, plus AI-tailored resumes. Freemium, 3 tailored resumes a month free, $14.99 for a 7-day pass that does not auto-renew.
+- [ResumeMetric](https://resumemetric.com/) - Client-side ATS resume scanner and job-description keyword matcher that parses PDF/DOCX files locally in the browser with zero server uploads, alongside 25 ATS-friendly templates and 16 career calculators. Free, no account required.
 - [TopResume free review](https://topresume.com/resume-review) - A resume writer reviews your resume and sends feedback. Free review that leads into a paid writing service.
 
 ## Cover letters and application answers
