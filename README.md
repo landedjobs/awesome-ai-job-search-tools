@@ -167,6 +167,7 @@ Practice out loud. Reading answers in your head feels like preparation and isn't
 - [Huru](https://huru.ai) - AI mock interviews for 242+ roles that score each answer and say what to fix. Free for job seekers.
 - [InterviewBuddy](https://www.interviewbuddy.net) - One-on-one mock sessions with industry experts plus AI practice. Paid, sessions priced per booking.
 - [MockXP](https://www.mockinterviewai.com) - iPhone app that generates questions from your resume and a job description and scores spoken answers. Free to download, subscriptions in-app.
+- [Ouba Interview Coach](https://interview.redboook.cn/en/) - Practice a spoken self-introduction and three experience questions built from a job description, then compare a second answer with the first, in English or Chinese. Free, up to three hosted sessions a day, or self-host the [MIT-licensed code](https://github.com/ouxxyy/ai-interviewer) with your own model keys. No coding rounds, and the hosted version sends your answer audio to a cloud model.
 - [Final Round AI](https://www.finalroundai.com) - Interview prep plus a live Interview CoPilot that suggests answers during real interviews. Freemium, Pro from $25 a month. Using hidden help in a live interview breaks most companies' interview rules and can cost you the offer if found. Use the practice features.
 
 ## LinkedIn and profile optimization
